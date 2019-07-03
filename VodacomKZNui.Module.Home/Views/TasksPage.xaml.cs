@@ -2,9 +2,9 @@
 
 namespace VodacomKZNui.Module.Home.Views
 {
-    public partial class ViewA : ContentPage
+    public partial class TasksPage : ContentPage
     {
-        public ViewA()
+        public TasksPage()
         {
             InitializeComponent();
         }

@@ -2,9 +2,9 @@
 
 namespace VodacomKZNui.Module.Profile.Views
 {
-    public partial class ViewA : ContentPage
+    public partial class LoginPage : ContentPage
     {
-        public ViewA()
+        public LoginPage()
         {
             InitializeComponent();
         }
