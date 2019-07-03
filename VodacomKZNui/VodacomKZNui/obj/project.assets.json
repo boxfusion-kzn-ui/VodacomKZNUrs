@@ -86,6 +86,34 @@
           "build/netstandard2.0/Xamarin.Forms.props": {},
           "build/netstandard2.0/Xamarin.Forms.targets": {}
         }
+      },
+      "VodacomKZNui.Module.Home/1.0.0": {
+        "type": "project",
+        "framework": ".NETStandard,Version=v2.0",
+        "dependencies": {
+          "Prism.Forms": "7.1.0.431",
+          "Xamarin.Forms": "3.2.0.839982"
+        },
+        "compile": {
+          "bin/placeholder/VodacomKZNui.Module.Home.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/VodacomKZNui.Module.Home.dll": {}
+        }
+      },
+      "VodacomKZNui.Module.Profile/1.0.0": {
+        "type": "project",
+        "framework": ".NETStandard,Version=v2.0",
+        "dependencies": {
+          "Prism.Forms": "7.1.0.431",
+          "Xamarin.Forms": "3.2.0.839982"
+        },
+        "compile": {
+          "bin/placeholder/VodacomKZNui.Module.Profile.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/VodacomKZNui.Module.Profile.dll": {}
+        }
       }
     }
   },
@@ -480,12 +508,24 @@
         "xamarin.forms.3.2.0.839982.nupkg.sha512",
         "xamarin.forms.nuspec"
       ]
+    },
+    "VodacomKZNui.Module.Home/1.0.0": {
+      "type": "project",
+      "path": "../../VodacomKZNui.Module.Home/VodacomKZNui.Module.Home.csproj",
+      "msbuildProject": "../../VodacomKZNui.Module.Home/VodacomKZNui.Module.Home.csproj"
+    },
+    "VodacomKZNui.Module.Profile/1.0.0": {
+      "type": "project",
+      "path": "../../VodacomKZNui.Module.Profile/VodacomKZNui.Module.Profile.csproj",
+      "msbuildProject": "../../VodacomKZNui.Module.Profile/VodacomKZNui.Module.Profile.csproj"
     }
   },
   "projectFileDependencyGroups": {
     ".NETStandard,Version=v2.0": [
       "NETStandard.Library >= 2.0.3",
       "Prism.DryIoc.Forms >= 7.1.0.431",
+      "VodacomKZNui.Module.Home >= 1.0.0",
+      "VodacomKZNui.Module.Profile >= 1.0.0",
       "Xamarin.Forms >= 3.2.0.839982"
     ]
   },
@@ -522,7 +562,14 @@
       },
       "frameworks": {
         "netstandard2.0": {
-          "projectReferences": {}
+          "projectReferences": {
+            "C:\\Users\\sabelo\\source\\repos\\VodacomKZNui\\VodacomKZNui.Module.Home\\VodacomKZNui.Module.Home.csproj": {
+              "projectPath": "C:\\Users\\sabelo\\source\\repos\\VodacomKZNui\\VodacomKZNui.Module.Home\\VodacomKZNui.Module.Home.csproj"
+            },
+            "C:\\Users\\sabelo\\source\\repos\\VodacomKZNui\\VodacomKZNui.Module.Profile\\VodacomKZNui.Module.Profile.csproj": {
+              "projectPath": "C:\\Users\\sabelo\\source\\repos\\VodacomKZNui\\VodacomKZNui.Module.Profile\\VodacomKZNui.Module.Profile.csproj"
+            }
+          }
         }
       },
       "warningProperties": {

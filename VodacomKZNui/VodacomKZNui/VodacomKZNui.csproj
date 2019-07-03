@@ -9,4 +9,9 @@
     <PackageReference Include="Prism.DryIoc.Forms" Version="7.1.0.431" />
   </ItemGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\..\VodacomKZNui.Module.Home\VodacomKZNui.Module.Home.csproj" />
+    <ProjectReference Include="..\..\VodacomKZNui.Module.Profile\VodacomKZNui.Module.Profile.csproj" />
+  </ItemGroup>
+
 </Project>

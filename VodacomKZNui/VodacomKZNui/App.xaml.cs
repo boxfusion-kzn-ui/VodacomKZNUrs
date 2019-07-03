@@ -1,7 +1,8 @@
 ﻿using Prism;
 using Prism.Ioc;
-using VodacomKZNui.ViewModels;
-using VodacomKZNui.Views;
+using Prism.Modularity;
+using VodacomKZNui.Module.Home;
+using VodacomKZNui.Module.Profile;
 using Xamarin.Forms;
 using Xamarin.Forms.Xaml;
 
@@ -29,7 +30,15 @@ namespace VodacomKZNui
         protected override void RegisterTypes(IContainerRegistry containerRegistry)
         {
             containerRegistry.RegisterForNavigation<NavigationPage>();
-            containerRegistry.RegisterForNavigation<MainPage, MainPageViewModel>();
         }
+
+        protected override void ConfigureModuleCatalog(IModuleCatalog moduleCatalog)
+        {
+            base.ConfigureModuleCatalog(moduleCatalog);
+            moduleCatalog.AddModule<ProfileModule>(InitializationMode.WhenAvailable);
+            moduleCatalog.AddModule<HomeModule>(InitializationMode.WhenAvailable);
+        }
+
+       
     }
 }

@@ -393,6 +393,8 @@
         "framework": ".NETStandard,Version=v2.0",
         "dependencies": {
           "Prism.DryIoc.Forms": "7.1.0.431",
+          "VodacomKZNui.Module.Home": "1.0.0",
+          "VodacomKZNui.Module.Profile": "1.0.0",
           "Xamarin.Forms": "3.2.0.839982"
         },
         "compile": {
@@ -400,6 +402,34 @@
         },
         "runtime": {
           "bin/placeholder/VodacomKZNui.dll": {}
+        }
+      },
+      "VodacomKZNui.Module.Home/1.0.0": {
+        "type": "project",
+        "framework": ".NETStandard,Version=v2.0",
+        "dependencies": {
+          "Prism.Forms": "7.1.0.431",
+          "Xamarin.Forms": "3.2.0.839982"
+        },
+        "compile": {
+          "bin/placeholder/VodacomKZNui.Module.Home.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/VodacomKZNui.Module.Home.dll": {}
+        }
+      },
+      "VodacomKZNui.Module.Profile/1.0.0": {
+        "type": "project",
+        "framework": ".NETStandard,Version=v2.0",
+        "dependencies": {
+          "Prism.Forms": "7.1.0.431",
+          "Xamarin.Forms": "3.2.0.839982"
+        },
+        "compile": {
+          "bin/placeholder/VodacomKZNui.Module.Profile.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/VodacomKZNui.Module.Profile.dll": {}
         }
       }
     }
@@ -931,6 +961,16 @@
       "type": "project",
       "path": "../VodacomKZNui/VodacomKZNui.csproj",
       "msbuildProject": "../VodacomKZNui/VodacomKZNui.csproj"
+    },
+    "VodacomKZNui.Module.Home/1.0.0": {
+      "type": "project",
+      "path": "../../VodacomKZNui.Module.Home/VodacomKZNui.Module.Home.csproj",
+      "msbuildProject": "../../VodacomKZNui.Module.Home/VodacomKZNui.Module.Home.csproj"
+    },
+    "VodacomKZNui.Module.Profile/1.0.0": {
+      "type": "project",
+      "path": "../../VodacomKZNui.Module.Profile/VodacomKZNui.Module.Profile.csproj",
+      "msbuildProject": "../../VodacomKZNui.Module.Profile/VodacomKZNui.Module.Profile.csproj"
     }
   },
   "projectFileDependencyGroups": {
