@@ -28,3 +28,8 @@ Xamarin.Android.Support.v7.MediaRouter
 Xamarin.Android.Support.v7.Palette
 Xamarin.Android.Support.v7.RecyclerView
 Xamarin.Android.Support.Vector.Drawable
+netstandard
+VodacomKZNui.Module.Profile
+VodacomKZNui.Module.Home
+System.Diagnostics.Tools
+System.Reflection.Extensions
