@@ -1,0 +1,11 @@
+C:\Users\sabelo\source\repos\VodacomKZNui\VodacomKZNui.Core\bin\Debug\netstandard2.0\VodacomKZNui.Core.deps.json
+C:\Users\sabelo\source\repos\VodacomKZNui\VodacomKZNui.Core\bin\Debug\netstandard2.0\VodacomKZNui.Core.dll
+C:\Users\sabelo\source\repos\VodacomKZNui\VodacomKZNui.Core\bin\Debug\netstandard2.0\VodacomKZNui.Core.pdb
+C:\Users\sabelo\source\repos\VodacomKZNui\VodacomKZNui.Core\obj\Debug\netstandard2.0\Views\DynamicTabbedPage.xaml.g.cs
+C:\Users\sabelo\source\repos\VodacomKZNui\VodacomKZNui.Core\obj\Debug\netstandard2.0\VodacomKZNui.Core.csproj.CoreCompileInputs.cache
+C:\Users\sabelo\source\repos\VodacomKZNui\VodacomKZNui.Core\obj\Debug\netstandard2.0\VodacomKZNui.Core.AssemblyInfoInputs.cache
+C:\Users\sabelo\source\repos\VodacomKZNui\VodacomKZNui.Core\obj\Debug\netstandard2.0\VodacomKZNui.Core.AssemblyInfo.cs
+C:\Users\sabelo\source\repos\VodacomKZNui\VodacomKZNui.Core\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\sabelo\source\repos\VodacomKZNui\VodacomKZNui.Core\obj\Debug\netstandard2.0\VodacomKZNui.Core.dll
+C:\Users\sabelo\source\repos\VodacomKZNui\VodacomKZNui.Core\obj\Debug\netstandard2.0\VodacomKZNui.Core.pdb
+C:\Users\sabelo\source\repos\VodacomKZNui\VodacomKZNui.Core\obj\Debug\netstandard2.0\VodacomKZNui.Core.csprojAssemblyReference.cache

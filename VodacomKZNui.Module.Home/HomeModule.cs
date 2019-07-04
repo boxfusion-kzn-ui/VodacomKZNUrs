@@ -15,6 +15,7 @@ namespace VodacomKZNui.Module.Home
         public void RegisterTypes(IContainerRegistry containerRegistry)
         {
             containerRegistry.RegisterForNavigation<TasksPage, TasksPageViewModel>();
+            containerRegistry.RegisterForNavigation<SummaryTaskPage, SummaryTaskPageViewModel>();
         }
     }
 }

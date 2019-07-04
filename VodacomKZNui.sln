@@ -9,9 +9,11 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VodacomKZNui.Android", "Vod
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VodacomKZNui.iOS", "VodacomKZNui\VodacomKZNui.iOS\VodacomKZNui.iOS.csproj", "{D3F3701C-6C0D-436B-9F96-14EA17F9CE62}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VodacomKZNui.Module.Home", "VodacomKZNui.Module.Home\VodacomKZNui.Module.Home.csproj", "{7B916B7E-539F-475B-B890-362FA4167CE5}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "VodacomKZNui.Module.Home", "VodacomKZNui.Module.Home\VodacomKZNui.Module.Home.csproj", "{7B916B7E-539F-475B-B890-362FA4167CE5}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VodacomKZNui.Module.Profile", "VodacomKZNui.Module.Profile\VodacomKZNui.Module.Profile.csproj", "{C9FF028E-1E15-476D-BF40-3E64D39750A2}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "VodacomKZNui.Module.Profile", "VodacomKZNui.Module.Profile\VodacomKZNui.Module.Profile.csproj", "{C9FF028E-1E15-476D-BF40-3E64D39750A2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VodacomKZNui.Core", "VodacomKZNui.Core\VodacomKZNui.Core.csproj", "{B8B17297-9579-48B8-84A4-7ABFEC159518}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -157,6 +159,30 @@ Global
 		{C9FF028E-1E15-476D-BF40-3E64D39750A2}.Release|iPhone.Build.0 = Release|Any CPU
 		{C9FF028E-1E15-476D-BF40-3E64D39750A2}.Release|iPhoneSimulator.ActiveCfg = Release|Any CPU
 		{C9FF028E-1E15-476D-BF40-3E64D39750A2}.Release|iPhoneSimulator.Build.0 = Release|Any CPU
+		{B8B17297-9579-48B8-84A4-7ABFEC159518}.Ad-Hoc|Any CPU.ActiveCfg = Debug|Any CPU
+		{B8B17297-9579-48B8-84A4-7ABFEC159518}.Ad-Hoc|Any CPU.Build.0 = Debug|Any CPU
+		{B8B17297-9579-48B8-84A4-7ABFEC159518}.Ad-Hoc|iPhone.ActiveCfg = Debug|Any CPU
+		{B8B17297-9579-48B8-84A4-7ABFEC159518}.Ad-Hoc|iPhone.Build.0 = Debug|Any CPU
+		{B8B17297-9579-48B8-84A4-7ABFEC159518}.Ad-Hoc|iPhoneSimulator.ActiveCfg = Debug|Any CPU
+		{B8B17297-9579-48B8-84A4-7ABFEC159518}.Ad-Hoc|iPhoneSimulator.Build.0 = Debug|Any CPU
+		{B8B17297-9579-48B8-84A4-7ABFEC159518}.AppStore|Any CPU.ActiveCfg = Debug|Any CPU
+		{B8B17297-9579-48B8-84A4-7ABFEC159518}.AppStore|Any CPU.Build.0 = Debug|Any CPU
+		{B8B17297-9579-48B8-84A4-7ABFEC159518}.AppStore|iPhone.ActiveCfg = Debug|Any CPU
+		{B8B17297-9579-48B8-84A4-7ABFEC159518}.AppStore|iPhone.Build.0 = Debug|Any CPU
+		{B8B17297-9579-48B8-84A4-7ABFEC159518}.AppStore|iPhoneSimulator.ActiveCfg = Debug|Any CPU
+		{B8B17297-9579-48B8-84A4-7ABFEC159518}.AppStore|iPhoneSimulator.Build.0 = Debug|Any CPU
+		{B8B17297-9579-48B8-84A4-7ABFEC159518}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B8B17297-9579-48B8-84A4-7ABFEC159518}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B8B17297-9579-48B8-84A4-7ABFEC159518}.Debug|iPhone.ActiveCfg = Debug|Any CPU
+		{B8B17297-9579-48B8-84A4-7ABFEC159518}.Debug|iPhone.Build.0 = Debug|Any CPU
+		{B8B17297-9579-48B8-84A4-7ABFEC159518}.Debug|iPhoneSimulator.ActiveCfg = Debug|Any CPU
+		{B8B17297-9579-48B8-84A4-7ABFEC159518}.Debug|iPhoneSimulator.Build.0 = Debug|Any CPU
+		{B8B17297-9579-48B8-84A4-7ABFEC159518}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B8B17297-9579-48B8-84A4-7ABFEC159518}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B8B17297-9579-48B8-84A4-7ABFEC159518}.Release|iPhone.ActiveCfg = Release|Any CPU
+		{B8B17297-9579-48B8-84A4-7ABFEC159518}.Release|iPhone.Build.0 = Release|Any CPU
+		{B8B17297-9579-48B8-84A4-7ABFEC159518}.Release|iPhoneSimulator.ActiveCfg = Release|Any CPU
+		{B8B17297-9579-48B8-84A4-7ABFEC159518}.Release|iPhoneSimulator.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

@@ -1,7 +1,6 @@
 C:\Users\sabelo\source\repos\VodacomKZNui\VodacomKZNui.Module.Profile\bin\Debug\netstandard2.0\VodacomKZNui.Module.Profile.deps.json
 C:\Users\sabelo\source\repos\VodacomKZNui\VodacomKZNui.Module.Profile\bin\Debug\netstandard2.0\VodacomKZNui.Module.Profile.dll
 C:\Users\sabelo\source\repos\VodacomKZNui\VodacomKZNui.Module.Profile\bin\Debug\netstandard2.0\VodacomKZNui.Module.Profile.pdb
-C:\Users\sabelo\source\repos\VodacomKZNui\VodacomKZNui.Module.Profile\obj\Debug\netstandard2.0\VodacomKZNui.Module.Profile.csprojAssemblyReference.cache
 C:\Users\sabelo\source\repos\VodacomKZNui\VodacomKZNui.Module.Profile\obj\Debug\netstandard2.0\Views\LoginPage.xaml.g.cs
 C:\Users\sabelo\source\repos\VodacomKZNui\VodacomKZNui.Module.Profile\obj\Debug\netstandard2.0\VodacomKZNui.Module.Profile.csproj.CoreCompileInputs.cache
 C:\Users\sabelo\source\repos\VodacomKZNui\VodacomKZNui.Module.Profile\obj\Debug\netstandard2.0\VodacomKZNui.Module.Profile.AssemblyInfoInputs.cache
@@ -9,3 +8,4 @@ C:\Users\sabelo\source\repos\VodacomKZNui\VodacomKZNui.Module.Profile\obj\Debug\
 C:\Users\sabelo\source\repos\VodacomKZNui\VodacomKZNui.Module.Profile\obj\Debug\netstandard2.0\XamlC.stamp
 C:\Users\sabelo\source\repos\VodacomKZNui\VodacomKZNui.Module.Profile\obj\Debug\netstandard2.0\VodacomKZNui.Module.Profile.dll
 C:\Users\sabelo\source\repos\VodacomKZNui\VodacomKZNui.Module.Profile\obj\Debug\netstandard2.0\VodacomKZNui.Module.Profile.pdb
+C:\Users\sabelo\source\repos\VodacomKZNui\VodacomKZNui.Module.Profile\obj\Debug\netstandard2.0\VodacomKZNui.Module.Profile.csprojAssemblyReference.cache
