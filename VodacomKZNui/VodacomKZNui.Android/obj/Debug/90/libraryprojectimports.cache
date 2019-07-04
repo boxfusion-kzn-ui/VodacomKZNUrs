@@ -1,18 +1,17 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <Paths>
   <Jars>
-    <Jar>C:\Users\sabelo\source\repos\VodacomKZNui\VodacomKZNui\VodacomKZNui.Android\obj\Debug\90\lp\25\jl\android.arch.core.common.jar</Jar>
-    <Jar>C:\Users\sabelo\source\repos\VodacomKZNui\VodacomKZNui\VodacomKZNui.Android\obj\Debug\90\lp\26\jl\bin\classes.jar</Jar>
-    <Jar>C:\Users\sabelo\source\repos\VodacomKZNui\VodacomKZNui\VodacomKZNui.Android\obj\Debug\90\lp\27\jl\android.arch.lifecycle.common.jar</Jar>
-    <Jar>C:\Users\sabelo\source\repos\VodacomKZNui\VodacomKZNui\VodacomKZNui.Android\obj\Debug\90\lp\28\jl\bin\classes.jar</Jar>
+    <Jar>C:\Users\sabelo\source\repos\VodacomKZNui\VodacomKZNui\VodacomKZNui.Android\obj\Debug\90\lp\26\jl\android.arch.core.common.jar</Jar>
+    <Jar>C:\Users\sabelo\source\repos\VodacomKZNui\VodacomKZNui\VodacomKZNui.Android\obj\Debug\90\lp\27\jl\bin\classes.jar</Jar>
+    <Jar>C:\Users\sabelo\source\repos\VodacomKZNui\VodacomKZNui\VodacomKZNui.Android\obj\Debug\90\lp\28\jl\android.arch.lifecycle.common.jar</Jar>
     <Jar>C:\Users\sabelo\source\repos\VodacomKZNui\VodacomKZNui\VodacomKZNui.Android\obj\Debug\90\lp\29\jl\bin\classes.jar</Jar>
     <Jar>C:\Users\sabelo\source\repos\VodacomKZNui\VodacomKZNui\VodacomKZNui.Android\obj\Debug\90\lp\30\jl\bin\classes.jar</Jar>
     <Jar>C:\Users\sabelo\source\repos\VodacomKZNui\VodacomKZNui\VodacomKZNui.Android\obj\Debug\90\lp\31\jl\bin\classes.jar</Jar>
     <Jar>C:\Users\sabelo\source\repos\VodacomKZNui\VodacomKZNui\VodacomKZNui.Android\obj\Debug\90\lp\32\jl\bin\classes.jar</Jar>
-    <Jar>C:\Users\sabelo\source\repos\VodacomKZNui\VodacomKZNui\VodacomKZNui.Android\obj\Debug\90\lp\33\jl\com.android.support.support-annotations.jar</Jar>
-    <Jar>C:\Users\sabelo\source\repos\VodacomKZNui\VodacomKZNui\VodacomKZNui.Android\obj\Debug\90\lp\34\jl\bin\classes.jar</Jar>
-    <Jar>C:\Users\sabelo\source\repos\VodacomKZNui\VodacomKZNui\VodacomKZNui.Android\obj\Debug\90\lp\35\jl\com.android.support.collections.jar</Jar>
-    <Jar>C:\Users\sabelo\source\repos\VodacomKZNui\VodacomKZNui\VodacomKZNui.Android\obj\Debug\90\lp\36\jl\bin\classes.jar</Jar>
+    <Jar>C:\Users\sabelo\source\repos\VodacomKZNui\VodacomKZNui\VodacomKZNui.Android\obj\Debug\90\lp\33\jl\bin\classes.jar</Jar>
+    <Jar>C:\Users\sabelo\source\repos\VodacomKZNui\VodacomKZNui\VodacomKZNui.Android\obj\Debug\90\lp\34\jl\com.android.support.support-annotations.jar</Jar>
+    <Jar>C:\Users\sabelo\source\repos\VodacomKZNui\VodacomKZNui\VodacomKZNui.Android\obj\Debug\90\lp\35\jl\bin\classes.jar</Jar>
+    <Jar>C:\Users\sabelo\source\repos\VodacomKZNui\VodacomKZNui\VodacomKZNui.Android\obj\Debug\90\lp\36\jl\com.android.support.collections.jar</Jar>
     <Jar>C:\Users\sabelo\source\repos\VodacomKZNui\VodacomKZNui\VodacomKZNui.Android\obj\Debug\90\lp\37\jl\bin\classes.jar</Jar>
     <Jar>C:\Users\sabelo\source\repos\VodacomKZNui\VodacomKZNui\VodacomKZNui.Android\obj\Debug\90\lp\38\jl\bin\classes.jar</Jar>
     <Jar>C:\Users\sabelo\source\repos\VodacomKZNui\VodacomKZNui\VodacomKZNui.Android\obj\Debug\90\lp\39\jl\bin\classes.jar</Jar>
@@ -39,6 +38,7 @@
     <Jar>C:\Users\sabelo\source\repos\VodacomKZNui\VodacomKZNui\VodacomKZNui.Android\obj\Debug\90\lp\59\jl\bin\classes.jar</Jar>
     <Jar>C:\Users\sabelo\source\repos\VodacomKZNui\VodacomKZNui\VodacomKZNui.Android\obj\Debug\90\lp\60\jl\bin\classes.jar</Jar>
     <Jar>C:\Users\sabelo\source\repos\VodacomKZNui\VodacomKZNui\VodacomKZNui.Android\obj\Debug\90\lp\61\jl\bin\classes.jar</Jar>
+    <Jar>C:\Users\sabelo\source\repos\VodacomKZNui\VodacomKZNui\VodacomKZNui.Android\obj\Debug\90\lp\62\jl\bin\classes.jar</Jar>
   </Jars>
   <ResolvedResourceDirectories>
     <ResolvedResourceDirectory>C:\Users\sabelo\source\repos\VodacomKZNui\VodacomKZNui\VodacomKZNui.Android\obj\Debug\90\lp\14\jl\res</ResolvedResourceDirectory>
@@ -46,21 +46,21 @@
     <ResolvedResourceDirectory>C:\Users\sabelo\source\repos\VodacomKZNui\VodacomKZNui\VodacomKZNui.Android\obj\Debug\90\lp\16\jl\res</ResolvedResourceDirectory>
     <ResolvedResourceDirectory>C:\Users\sabelo\source\repos\VodacomKZNui\VodacomKZNui\VodacomKZNui.Android\obj\Debug\90\lp\17\jl\res</ResolvedResourceDirectory>
     <ResolvedResourceDirectory>C:\Users\sabelo\source\repos\VodacomKZNui\VodacomKZNui\VodacomKZNui.Android\obj\Debug\90\lp\18\jl\res</ResolvedResourceDirectory>
-    <ResolvedResourceDirectory>C:\Users\sabelo\source\repos\VodacomKZNui\VodacomKZNui\VodacomKZNui.Android\obj\Debug\90\lp\26\jl\res</ResolvedResourceDirectory>
-    <ResolvedResourceDirectory>C:\Users\sabelo\source\repos\VodacomKZNui\VodacomKZNui\VodacomKZNui.Android\obj\Debug\90\lp\28\jl\res</ResolvedResourceDirectory>
+    <ResolvedResourceDirectory>C:\Users\sabelo\source\repos\VodacomKZNui\VodacomKZNui\VodacomKZNui.Android\obj\Debug\90\lp\27\jl\res</ResolvedResourceDirectory>
     <ResolvedResourceDirectory>C:\Users\sabelo\source\repos\VodacomKZNui\VodacomKZNui\VodacomKZNui.Android\obj\Debug\90\lp\29\jl\res</ResolvedResourceDirectory>
     <ResolvedResourceDirectory>C:\Users\sabelo\source\repos\VodacomKZNui\VodacomKZNui\VodacomKZNui.Android\obj\Debug\90\lp\30\jl\res</ResolvedResourceDirectory>
     <ResolvedResourceDirectory>C:\Users\sabelo\source\repos\VodacomKZNui\VodacomKZNui\VodacomKZNui.Android\obj\Debug\90\lp\31\jl\res</ResolvedResourceDirectory>
-    <ResolvedResourceDirectory>C:\Users\sabelo\source\repos\VodacomKZNui\VodacomKZNui\VodacomKZNui.Android\obj\Debug\90\lp\36\jl\res</ResolvedResourceDirectory>
+    <ResolvedResourceDirectory>C:\Users\sabelo\source\repos\VodacomKZNui\VodacomKZNui\VodacomKZNui.Android\obj\Debug\90\lp\32\jl\res</ResolvedResourceDirectory>
     <ResolvedResourceDirectory>C:\Users\sabelo\source\repos\VodacomKZNui\VodacomKZNui\VodacomKZNui.Android\obj\Debug\90\lp\37\jl\res</ResolvedResourceDirectory>
-    <ResolvedResourceDirectory>C:\Users\sabelo\source\repos\VodacomKZNui\VodacomKZNui\VodacomKZNui.Android\obj\Debug\90\lp\41\jl\res</ResolvedResourceDirectory>
-    <ResolvedResourceDirectory>C:\Users\sabelo\source\repos\VodacomKZNui\VodacomKZNui\VodacomKZNui.Android\obj\Debug\90\lp\43\jl\res</ResolvedResourceDirectory>
-    <ResolvedResourceDirectory>C:\Users\sabelo\source\repos\VodacomKZNui\VodacomKZNui\VodacomKZNui.Android\obj\Debug\90\lp\50\jl\res</ResolvedResourceDirectory>
-    <ResolvedResourceDirectory>C:\Users\sabelo\source\repos\VodacomKZNui\VodacomKZNui\VodacomKZNui.Android\obj\Debug\90\lp\54\jl\res</ResolvedResourceDirectory>
-    <ResolvedResourceDirectory>C:\Users\sabelo\source\repos\VodacomKZNui\VodacomKZNui\VodacomKZNui.Android\obj\Debug\90\lp\56\jl\res</ResolvedResourceDirectory>
+    <ResolvedResourceDirectory>C:\Users\sabelo\source\repos\VodacomKZNui\VodacomKZNui\VodacomKZNui.Android\obj\Debug\90\lp\38\jl\res</ResolvedResourceDirectory>
+    <ResolvedResourceDirectory>C:\Users\sabelo\source\repos\VodacomKZNui\VodacomKZNui\VodacomKZNui.Android\obj\Debug\90\lp\42\jl\res</ResolvedResourceDirectory>
+    <ResolvedResourceDirectory>C:\Users\sabelo\source\repos\VodacomKZNui\VodacomKZNui\VodacomKZNui.Android\obj\Debug\90\lp\44\jl\res</ResolvedResourceDirectory>
+    <ResolvedResourceDirectory>C:\Users\sabelo\source\repos\VodacomKZNui\VodacomKZNui\VodacomKZNui.Android\obj\Debug\90\lp\51\jl\res</ResolvedResourceDirectory>
+    <ResolvedResourceDirectory>C:\Users\sabelo\source\repos\VodacomKZNui\VodacomKZNui\VodacomKZNui.Android\obj\Debug\90\lp\55\jl\res</ResolvedResourceDirectory>
     <ResolvedResourceDirectory>C:\Users\sabelo\source\repos\VodacomKZNui\VodacomKZNui\VodacomKZNui.Android\obj\Debug\90\lp\57\jl\res</ResolvedResourceDirectory>
     <ResolvedResourceDirectory>C:\Users\sabelo\source\repos\VodacomKZNui\VodacomKZNui\VodacomKZNui.Android\obj\Debug\90\lp\58\jl\res</ResolvedResourceDirectory>
-    <ResolvedResourceDirectory>C:\Users\sabelo\source\repos\VodacomKZNui\VodacomKZNui\VodacomKZNui.Android\obj\Debug\90\lp\64\jl\res</ResolvedResourceDirectory>
+    <ResolvedResourceDirectory>C:\Users\sabelo\source\repos\VodacomKZNui\VodacomKZNui\VodacomKZNui.Android\obj\Debug\90\lp\59\jl\res</ResolvedResourceDirectory>
+    <ResolvedResourceDirectory>C:\Users\sabelo\source\repos\VodacomKZNui\VodacomKZNui\VodacomKZNui.Android\obj\Debug\90\lp\65\jl\res</ResolvedResourceDirectory>
   </ResolvedResourceDirectories>
   <ResolvedAssetDirectories>
     <ResolvedAssetDirectory>obj\Debug\90\lp\14\jl\assets</ResolvedAssetDirectory>
@@ -68,12 +68,12 @@
     <ResolvedAssetDirectory>obj\Debug\90\lp\16\jl\assets</ResolvedAssetDirectory>
     <ResolvedAssetDirectory>obj\Debug\90\lp\17\jl\assets</ResolvedAssetDirectory>
     <ResolvedAssetDirectory>obj\Debug\90\lp\18\jl\assets</ResolvedAssetDirectory>
-    <ResolvedAssetDirectory>obj\Debug\90\lp\26\jl\assets</ResolvedAssetDirectory>
-    <ResolvedAssetDirectory>obj\Debug\90\lp\28\jl\assets</ResolvedAssetDirectory>
+    <ResolvedAssetDirectory>obj\Debug\90\lp\27\jl\assets</ResolvedAssetDirectory>
     <ResolvedAssetDirectory>obj\Debug\90\lp\29\jl\assets</ResolvedAssetDirectory>
     <ResolvedAssetDirectory>obj\Debug\90\lp\30\jl\assets</ResolvedAssetDirectory>
     <ResolvedAssetDirectory>obj\Debug\90\lp\31\jl\assets</ResolvedAssetDirectory>
-    <ResolvedAssetDirectory>obj\Debug\90\lp\64\jl\assets</ResolvedAssetDirectory>
+    <ResolvedAssetDirectory>obj\Debug\90\lp\32\jl\assets</ResolvedAssetDirectory>
+    <ResolvedAssetDirectory>obj\Debug\90\lp\65\jl\assets</ResolvedAssetDirectory>
   </ResolvedAssetDirectories>
   <ResolvedEnvironmentFiles />
   <ResolvedResourceDirectoryStamps>
@@ -82,20 +82,20 @@
     <ResolvedResourceDirectoryStamp>C:\Users\sabelo\source\repos\VodacomKZNui\VodacomKZNui\VodacomKZNui.Android\obj\Debug\90\lp\16.stamp</ResolvedResourceDirectoryStamp>
     <ResolvedResourceDirectoryStamp>C:\Users\sabelo\source\repos\VodacomKZNui\VodacomKZNui\VodacomKZNui.Android\obj\Debug\90\lp\17.stamp</ResolvedResourceDirectoryStamp>
     <ResolvedResourceDirectoryStamp>C:\Users\sabelo\source\repos\VodacomKZNui\VodacomKZNui\VodacomKZNui.Android\obj\Debug\90\lp\18.stamp</ResolvedResourceDirectoryStamp>
-    <ResolvedResourceDirectoryStamp>C:\Users\sabelo\source\repos\VodacomKZNui\VodacomKZNui\VodacomKZNui.Android\obj\Debug\90\lp\26.stamp</ResolvedResourceDirectoryStamp>
-    <ResolvedResourceDirectoryStamp>C:\Users\sabelo\source\repos\VodacomKZNui\VodacomKZNui\VodacomKZNui.Android\obj\Debug\90\lp\28.stamp</ResolvedResourceDirectoryStamp>
+    <ResolvedResourceDirectoryStamp>C:\Users\sabelo\source\repos\VodacomKZNui\VodacomKZNui\VodacomKZNui.Android\obj\Debug\90\lp\27.stamp</ResolvedResourceDirectoryStamp>
     <ResolvedResourceDirectoryStamp>C:\Users\sabelo\source\repos\VodacomKZNui\VodacomKZNui\VodacomKZNui.Android\obj\Debug\90\lp\29.stamp</ResolvedResourceDirectoryStamp>
     <ResolvedResourceDirectoryStamp>C:\Users\sabelo\source\repos\VodacomKZNui\VodacomKZNui\VodacomKZNui.Android\obj\Debug\90\lp\30.stamp</ResolvedResourceDirectoryStamp>
     <ResolvedResourceDirectoryStamp>C:\Users\sabelo\source\repos\VodacomKZNui\VodacomKZNui\VodacomKZNui.Android\obj\Debug\90\lp\31.stamp</ResolvedResourceDirectoryStamp>
-    <ResolvedResourceDirectoryStamp>C:\Users\sabelo\source\repos\VodacomKZNui\VodacomKZNui\VodacomKZNui.Android\obj\Debug\90\lp\36.stamp</ResolvedResourceDirectoryStamp>
+    <ResolvedResourceDirectoryStamp>C:\Users\sabelo\source\repos\VodacomKZNui\VodacomKZNui\VodacomKZNui.Android\obj\Debug\90\lp\32.stamp</ResolvedResourceDirectoryStamp>
     <ResolvedResourceDirectoryStamp>C:\Users\sabelo\source\repos\VodacomKZNui\VodacomKZNui\VodacomKZNui.Android\obj\Debug\90\lp\37.stamp</ResolvedResourceDirectoryStamp>
-    <ResolvedResourceDirectoryStamp>C:\Users\sabelo\source\repos\VodacomKZNui\VodacomKZNui\VodacomKZNui.Android\obj\Debug\90\lp\41.stamp</ResolvedResourceDirectoryStamp>
-    <ResolvedResourceDirectoryStamp>C:\Users\sabelo\source\repos\VodacomKZNui\VodacomKZNui\VodacomKZNui.Android\obj\Debug\90\lp\43.stamp</ResolvedResourceDirectoryStamp>
-    <ResolvedResourceDirectoryStamp>C:\Users\sabelo\source\repos\VodacomKZNui\VodacomKZNui\VodacomKZNui.Android\obj\Debug\90\lp\50.stamp</ResolvedResourceDirectoryStamp>
-    <ResolvedResourceDirectoryStamp>C:\Users\sabelo\source\repos\VodacomKZNui\VodacomKZNui\VodacomKZNui.Android\obj\Debug\90\lp\54.stamp</ResolvedResourceDirectoryStamp>
-    <ResolvedResourceDirectoryStamp>C:\Users\sabelo\source\repos\VodacomKZNui\VodacomKZNui\VodacomKZNui.Android\obj\Debug\90\lp\56.stamp</ResolvedResourceDirectoryStamp>
+    <ResolvedResourceDirectoryStamp>C:\Users\sabelo\source\repos\VodacomKZNui\VodacomKZNui\VodacomKZNui.Android\obj\Debug\90\lp\38.stamp</ResolvedResourceDirectoryStamp>
+    <ResolvedResourceDirectoryStamp>C:\Users\sabelo\source\repos\VodacomKZNui\VodacomKZNui\VodacomKZNui.Android\obj\Debug\90\lp\42.stamp</ResolvedResourceDirectoryStamp>
+    <ResolvedResourceDirectoryStamp>C:\Users\sabelo\source\repos\VodacomKZNui\VodacomKZNui\VodacomKZNui.Android\obj\Debug\90\lp\44.stamp</ResolvedResourceDirectoryStamp>
+    <ResolvedResourceDirectoryStamp>C:\Users\sabelo\source\repos\VodacomKZNui\VodacomKZNui\VodacomKZNui.Android\obj\Debug\90\lp\51.stamp</ResolvedResourceDirectoryStamp>
+    <ResolvedResourceDirectoryStamp>C:\Users\sabelo\source\repos\VodacomKZNui\VodacomKZNui\VodacomKZNui.Android\obj\Debug\90\lp\55.stamp</ResolvedResourceDirectoryStamp>
     <ResolvedResourceDirectoryStamp>C:\Users\sabelo\source\repos\VodacomKZNui\VodacomKZNui\VodacomKZNui.Android\obj\Debug\90\lp\57.stamp</ResolvedResourceDirectoryStamp>
     <ResolvedResourceDirectoryStamp>C:\Users\sabelo\source\repos\VodacomKZNui\VodacomKZNui\VodacomKZNui.Android\obj\Debug\90\lp\58.stamp</ResolvedResourceDirectoryStamp>
-    <ResolvedResourceDirectoryStamp>C:\Users\sabelo\source\repos\VodacomKZNui\VodacomKZNui\VodacomKZNui.Android\obj\Debug\90\lp\64.stamp</ResolvedResourceDirectoryStamp>
+    <ResolvedResourceDirectoryStamp>C:\Users\sabelo\source\repos\VodacomKZNui\VodacomKZNui\VodacomKZNui.Android\obj\Debug\90\lp\59.stamp</ResolvedResourceDirectoryStamp>
+    <ResolvedResourceDirectoryStamp>C:\Users\sabelo\source\repos\VodacomKZNui\VodacomKZNui\VodacomKZNui.Android\obj\Debug\90\lp\65.stamp</ResolvedResourceDirectoryStamp>
   </ResolvedResourceDirectoryStamps>
 </Paths>

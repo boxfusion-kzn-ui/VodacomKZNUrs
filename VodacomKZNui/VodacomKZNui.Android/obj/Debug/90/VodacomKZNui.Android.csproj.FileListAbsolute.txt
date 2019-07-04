@@ -2,11 +2,13 @@ C:\Users\sabelo\source\repos\VodacomKZNui\VodacomKZNui\VodacomKZNui.Android\bin\
 C:\Users\sabelo\source\repos\VodacomKZNui\VodacomKZNui\VodacomKZNui.Android\bin\Debug\VodacomKZNui.Android.pdb
 C:\Users\sabelo\source\repos\VodacomKZNui\VodacomKZNui\VodacomKZNui.Android\bin\Debug\com.companyname.appname.apk
 C:\Users\sabelo\source\repos\VodacomKZNui\VodacomKZNui\VodacomKZNui.Android\bin\Debug\com.companyname.appname-Signed.apk
+C:\Users\sabelo\source\repos\VodacomKZNui\VodacomKZNui\VodacomKZNui.Android\bin\Debug\System.Threading.Tasks.Extensions.dll
 C:\Users\sabelo\source\repos\VodacomKZNui\VodacomKZNui\VodacomKZNui.Android\bin\Debug\VodacomKZNui.dll
 C:\Users\sabelo\source\repos\VodacomKZNui\VodacomKZNui\VodacomKZNui.Android\bin\Debug\VodacomKZNui.Module.Profile.dll
 C:\Users\sabelo\source\repos\VodacomKZNui\VodacomKZNui\VodacomKZNui.Android\bin\Debug\VodacomKZNui.Module.Home.dll
 C:\Users\sabelo\source\repos\VodacomKZNui\VodacomKZNui\VodacomKZNui.Android\bin\Debug\VodacomKZNui.Core.dll
 C:\Users\sabelo\source\repos\VodacomKZNui\VodacomKZNui\VodacomKZNui.Android\bin\Debug\VodacomKZNui.pdb
+C:\Users\sabelo\source\repos\VodacomKZNui\VodacomKZNui\VodacomKZNui.Android\bin\Debug\System.Threading.Tasks.Extensions.xml
 C:\Users\sabelo\source\repos\VodacomKZNui\VodacomKZNui\VodacomKZNui.Android\bin\Debug\VodacomKZNui.Module.Profile.pdb
 C:\Users\sabelo\source\repos\VodacomKZNui\VodacomKZNui\VodacomKZNui.Android\bin\Debug\VodacomKZNui.Module.Home.pdb
 C:\Users\sabelo\source\repos\VodacomKZNui\VodacomKZNui\VodacomKZNui.Android\bin\Debug\VodacomKZNui.Core.pdb
@@ -32,8 +34,6 @@ C:\Users\sabelo\source\repos\VodacomKZNui\VodacomKZNui\VodacomKZNui.Android\obj\
 C:\Users\sabelo\source\repos\VodacomKZNui\VodacomKZNui\VodacomKZNui.Android\obj\Debug\90\R.cs.flag
 C:\Users\sabelo\source\repos\VodacomKZNui\VodacomKZNui\VodacomKZNui.Android\obj\Debug\90\R.txt
 C:\Users\sabelo\source\repos\VodacomKZNui\VodacomKZNui\VodacomKZNui.Android\obj\Debug\90\uploadflags.txt
-C:\Users\sabelo\source\repos\VodacomKZNui\VodacomKZNui\VodacomKZNui.Android\bin\Debug\System.Threading.Tasks.Extensions.dll
-C:\Users\sabelo\source\repos\VodacomKZNui\VodacomKZNui\VodacomKZNui.Android\bin\Debug\System.Threading.Tasks.Extensions.xml
 C:\Users\sabelo\source\repos\VodacomKZNui\VodacomKZNui\VodacomKZNui.Android\bin\Debug\FormsViewGroup.pdb
 C:\Users\sabelo\source\repos\VodacomKZNui\VodacomKZNui\VodacomKZNui.Android\bin\Debug\Mono.Android.pdb
 C:\Users\sabelo\source\repos\VodacomKZNui\VodacomKZNui\VodacomKZNui.Android\bin\Debug\mscorlib.pdb

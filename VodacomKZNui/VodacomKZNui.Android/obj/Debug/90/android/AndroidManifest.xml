@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
-<manifest xmlns:android="http://schemas.android.com/apk/res/android" android:versionCode="1" android:versionName="1.0" package="com.companyname.appname" android:installLocation="auto">
+<manifest xmlns:android="http://schemas.android.com/apk/res/android" package="com.companyname.appname" android:installLocation="auto" android:versionCode="1" android:versionName="1.0">
   <uses-sdk android:minSdkVersion="21" android:targetSdkVersion="28" />
   <uses-permission android:name="android.permission.INTERNET" />
   <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
   <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
-  <application android:label="VodacomKZNui.Android" android:icon="@mipmap/ic_launcher" android:name="android.app.Application" android:allowBackup="true" android:debuggable="true">
+  <application android:label="VodacomKZNui.Android" android:name="android.app.Application" android:allowBackup="true" android:icon="@mipmap/ic_launcher" android:debuggable="true">
     <activity android:configChanges="orientation|screenSize" android:icon="@mipmap/ic_launcher" android:label="VodacomKZNui" android:theme="@style/MainTheme" android:name="md5330fa515c67929e80788cf3a615b2400.MainActivity">
       <intent-filter>
         <action android:name="android.intent.action.MAIN" />

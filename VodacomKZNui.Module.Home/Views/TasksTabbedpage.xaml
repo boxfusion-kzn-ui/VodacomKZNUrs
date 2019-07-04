@@ -19,13 +19,13 @@
     </NavigationPage.TitleView>
     <TabbedPage.Children >
 
-        <views:TaskPage Title="Tasks" TabNumber="1" TranslationY="-6">
-            <views:TaskPage.Icon>
+        <views:TasksPage Title="Tasks" TabNumber="1" TranslationY="-6">
+            <views:TasksPage.Icon>
                 <OnPlatform x:TypeArguments="FileImageSource">
                     <OnPlatform.iOS>myphotos.png</OnPlatform.iOS>
                 </OnPlatform>
-            </views:TaskPage.Icon>
-        </views:TaskPage>
+            </views:TasksPage.Icon>
+        </views:TasksPage>
 
         <views:SummaryTaskPage Title="Summary" TabNumber="2" TranslationY="-6">
             <views:SummaryTaskPage.Icon>

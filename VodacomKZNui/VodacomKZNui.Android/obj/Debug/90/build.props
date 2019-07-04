@@ -20,5 +20,5 @@ AndroidCreatePackagePerAbi=
 OS=Windows_NT
 DesignTimeBuild=
 AndroidIncludeDebugSymbols=True
-AdbTarget=-s LGM400E64HYPLRI77T
+AdbTarget=-s 5LX9K18C24905399
 AdbOptions=

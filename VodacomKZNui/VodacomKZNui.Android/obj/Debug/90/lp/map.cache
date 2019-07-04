@@ -20,6 +20,7 @@ SQLitePCLRaw.provider.e_sqlite3
 System.Reactive
 System.Runtime.CompilerServices.Unsafe
 System.Runtime
+System.Threading.Tasks.Extensions
 Unity.Abstractions
 Unity.Container
 VodacomKZNui
@@ -65,11 +66,9 @@ Xamarin.Forms.Core
 Xamarin.Forms.Platform.Android
 Xamarin.Forms.Platform
 Xamarin.Forms.Xaml
-netstandard
 VodacomKZNui.Module.Profile
 VodacomKZNui.Module.Home
 System.Diagnostics.Tools
 System.Reflection.Extensions
 System.Runtime.InteropServices.WindowsRuntime
 VodacomKZNui.Core
-System.Threading.Tasks.Extensions

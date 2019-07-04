@@ -25,7 +25,7 @@ namespace VodacomKZNui
         {
             InitializeComponent();
 
-            await NavigationService.NavigateAsync("NavigationPage/LoginPage");
+            await NavigationService.NavigateAsync("NavigationPage/TasksTabbedpage");
         }
 
         protected override void RegisterTypes(IContainerRegistry containerRegistry)
