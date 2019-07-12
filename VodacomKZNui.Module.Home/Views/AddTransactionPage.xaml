@@ -1,0 +1,65 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:prism="clr-namespace:Prism.Mvvm;assembly=Prism.Forms"
+             prism:ViewModelLocator.AutowireViewModel="True"
+             x:Class="VodacomKZNui.Module.Home.Views.AddTransactionPage"
+             Title="Transactions">
+    <ContentPage.Content>
+        <StackLayout>
+
+            
+            <Frame Margin="10" CornerRadius="5" HasShadow="False" Padding="0" >
+
+
+                <StackLayout Orientation="Vertical" >
+                    <Grid RowSpacing="5">
+                        <Grid.ColumnDefinitions>
+                            <ColumnDefinition Width="*"/>
+                            <ColumnDefinition Width="*"/>
+                        </Grid.ColumnDefinitions>
+                        <Grid.RowDefinitions>
+                            <RowDefinition Height="80"/>
+                            <RowDefinition Height="70"/>
+                            <RowDefinition Height="70"/>
+                            <RowDefinition Height="70"/>
+                            <RowDefinition Height="70"/>
+
+                        </Grid.RowDefinitions>
+                        <StackLayout Grid.Column="0" Grid.Row="0" Orientation="Horizontal"  VerticalOptions="StartAndExpand" Padding="5" HorizontalOptions="StartAndExpand">
+                            <Label Text="Add Transaction" FontSize="Large"  TextColor="Black"/>
+                        </StackLayout>
+
+                        <Frame Grid.Row="1" Grid.Column="0" Grid.ColumnSpan="2" HasShadow="False" BackgroundColor="#F3F3F3" BorderColor="LightGray" Margin="0,0,0,-10">
+                            <StackLayout Orientation="Vertical" HeightRequest="100" >
+                                <Label  Grid.Column="0" Grid.Row="0" Text="Transaction Type" TextColor="DarkGray" FontSize="Small" VerticalOptions="CenterAndExpand" HorizontalOptions="StartAndExpand"/>
+                                <Label  Grid.Column="1" Grid.Row="0" Text="Troll" TextColor="Black" FontSize="Medium" HorizontalOptions="StartAndExpand" VerticalOptions="CenterAndExpand"
+                                         Margin="0,0,0,5"/>
+                            </StackLayout>
+                        </Frame>
+
+                        <Frame Grid.Row="2" Grid.Column="0" Grid.ColumnSpan="2" HasShadow="False" BackgroundColor="#F3F3F3" BorderColor="LightGray" Margin="0,0,0,-10">
+                            <StackLayout Orientation="Vertical"   VerticalOptions="Start" HorizontalOptions="FillAndExpand" >
+                                <Label Text="Trol SMip Number" TextColor="DarkGray" FontSize="Small" VerticalOptions="StartAndExpand" HorizontalOptions="StartAndExpand"/>
+                                <Label Text="52121452" TextColor="Black" FontSize="Medium" HorizontalOptions="StartAndExpand" VerticalOptions="CenterAndExpand"   />
+                            </StackLayout>
+                        </Frame>
+
+                        <Frame Grid.Row="3" Grid.Column="0" Grid.ColumnSpan="2" HasShadow="False" BackgroundColor="#F3F3F3" BorderColor="LightGray" Margin="0,0,0,-10">
+                            <StackLayout Orientation="Vertical" HeightRequest="100" >
+                                <Label  Grid.Column="0" Grid.Row="0" Text="Amount" TextColor="DarkGray" FontSize="Small" VerticalOptions="CenterAndExpand" HorizontalOptions="StartAndExpand"/>
+                                <Label  Grid.Column="1" Grid.Row="0" Text="R63.45" TextColor="Black" FontSize="Medium" HorizontalOptions="StartAndExpand" VerticalOptions="CenterAndExpand" />
+                            </StackLayout>
+                        </Frame>
+                    </Grid>
+                </StackLayout>
+
+            </Frame>
+            <StackLayout Orientation="Vertical" Spacing="2" VerticalOptions="EndAndExpand"  HorizontalOptions="CenterAndExpand"  >
+                <Button  Text="Submit" TextColor="White" BackgroundColor="#EB7F00"  CornerRadius="5" WidthRequest="310"/>
+                <Button  Text="Cancel" TextColor="LightPink"   BackgroundColor="Transparent" BorderColor="Gray" CornerRadius="5"/>
+            </StackLayout>
+        </StackLayout>
+
+    </ContentPage.Content>
+</ContentPage>

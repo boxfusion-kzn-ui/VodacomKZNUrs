@@ -1075,9 +1075,10 @@
         "dependencies": {
           "Prism.DryIoc.Forms": "7.1.0.431",
           "System.Threading.Tasks.Extensions": "4.5.2",
+          "VodacomKZNui.Module.Accident": "1.0.0",
           "VodacomKZNui.Module.Home": "1.0.0",
           "VodacomKZNui.Module.Profile": "1.0.0",
-          "Xamarin.Forms": "3.2.0.871581"
+          "Xamarin.Forms": "4.1.0.555618"
         },
         "compile": {
           "bin/placeholder/VodacomKZNui.dll": {}
@@ -1103,6 +1104,21 @@
         },
         "runtime": {
           "bin/placeholder/VodacomKZNui.Core.dll": {}
+        }
+      },
+      "VodacomKZNui.Module.Accident/1.0.0": {
+        "type": "project",
+        "framework": ".NETStandard,Version=v2.0",
+        "dependencies": {
+          "Prism.Forms": "7.1.0.431",
+          "VodacomKZNui.Core": "1.0.0",
+          "Xamarin.Forms": "4.1.0.555618"
+        },
+        "compile": {
+          "bin/placeholder/VodacomKZNui.Module.Accident.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/VodacomKZNui.Module.Accident.dll": {}
         }
       },
       "VodacomKZNui.Module.Home/1.0.0": {
@@ -2813,6 +2829,11 @@
       "type": "project",
       "path": "../../VodacomKZNui.Core/VodacomKZNui.Core.csproj",
       "msbuildProject": "../../VodacomKZNui.Core/VodacomKZNui.Core.csproj"
+    },
+    "VodacomKZNui.Module.Accident/1.0.0": {
+      "type": "project",
+      "path": "../../VodacomKZNui.Module.Accident/VodacomKZNui.Module.Accident.csproj",
+      "msbuildProject": "../../VodacomKZNui.Module.Accident/VodacomKZNui.Module.Accident.csproj"
     },
     "VodacomKZNui.Module.Home/1.0.0": {
       "type": "project",

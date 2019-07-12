@@ -131,11 +131,7 @@ namespace VodacomKZNui.Core.ViewModels
 
             ListItems = new ObservableRangeCollection<T>(list);
 
-            if (_dataService != null)
-            {
-                GroupedListItems = new ObservableRangeCollection<ItemPickerListGrouping<string, T>>(_dataService.GroupListAsync(list.ToList()));
-
-            }
+           
         }
 
 

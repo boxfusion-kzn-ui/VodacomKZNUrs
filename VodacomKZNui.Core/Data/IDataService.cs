@@ -9,6 +9,6 @@ namespace VodacomKZNui.Core.Data
     {
         IObservable<IEnumerable<T>> GetFullList();
         IEnumerable<T> QueryList(IEnumerable<T> list, string query);
-        IEnumerable<ItemPickerListGrouping<string, T>> GroupListAsync(List<T> itmes);
+       
     }
 }

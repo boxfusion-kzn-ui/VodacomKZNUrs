@@ -68,6 +68,7 @@ Xamarin.Forms.Platform
 Xamarin.Forms.Xaml
 VodacomKZNui.Module.Profile
 VodacomKZNui.Module.Home
+VodacomKZNui.Module.Accident
 System.Diagnostics.Tools
 System.Reflection.Extensions
 System.Runtime.InteropServices.WindowsRuntime

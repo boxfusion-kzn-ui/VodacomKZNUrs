@@ -1,0 +1,14 @@
+C:\Users\sabelo\source\repos\VodacomKZNui\VodacomKZNui.Module.Accident\obj\Debug\netstandard2.0\VodacomKZNui.Module.Accident.csprojAssemblyReference.cache
+C:\Users\sabelo\source\repos\VodacomKZNui\VodacomKZNui.Module.Accident\obj\Debug\netstandard2.0\Views\Arrest.xaml.g.cs
+C:\Users\sabelo\source\repos\VodacomKZNui\VodacomKZNui.Module.Accident\obj\Debug\netstandard2.0\VodacomKZNui.Module.Accident.csproj.CoreCompileInputs.cache
+C:\Users\sabelo\source\repos\VodacomKZNui\VodacomKZNui.Module.Accident\obj\Debug\netstandard2.0\VodacomKZNui.Module.Accident.AssemblyInfoInputs.cache
+C:\Users\sabelo\source\repos\VodacomKZNui\VodacomKZNui.Module.Accident\obj\Debug\netstandard2.0\VodacomKZNui.Module.Accident.AssemblyInfo.cs
+C:\Users\sabelo\source\repos\VodacomKZNui\VodacomKZNui.Module.Accident\bin\Debug\netstandard2.0\VodacomKZNui.Module.Accident.deps.json
+C:\Users\sabelo\source\repos\VodacomKZNui\VodacomKZNui.Module.Accident\bin\Debug\netstandard2.0\VodacomKZNui.Module.Accident.dll
+C:\Users\sabelo\source\repos\VodacomKZNui\VodacomKZNui.Module.Accident\bin\Debug\netstandard2.0\VodacomKZNui.Module.Accident.pdb
+C:\Users\sabelo\source\repos\VodacomKZNui\VodacomKZNui.Module.Accident\bin\Debug\netstandard2.0\VodacomKZNui.Core.dll
+C:\Users\sabelo\source\repos\VodacomKZNui\VodacomKZNui.Module.Accident\bin\Debug\netstandard2.0\VodacomKZNui.Core.pdb
+C:\Users\sabelo\source\repos\VodacomKZNui\VodacomKZNui.Module.Accident\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\sabelo\source\repos\VodacomKZNui\VodacomKZNui.Module.Accident\obj\Debug\netstandard2.0\VodacomKZNui.Module.Accident.csproj.CopyComplete
+C:\Users\sabelo\source\repos\VodacomKZNui\VodacomKZNui.Module.Accident\obj\Debug\netstandard2.0\VodacomKZNui.Module.Accident.dll
+C:\Users\sabelo\source\repos\VodacomKZNui\VodacomKZNui.Module.Accident\obj\Debug\netstandard2.0\VodacomKZNui.Module.Accident.pdb

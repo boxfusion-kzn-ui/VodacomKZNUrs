@@ -14,3 +14,7 @@ C:\Users\sabelo\source\repos\VodacomKZNui\VodacomKZNui.Module.Home\obj\Debug\net
 C:\Users\sabelo\source\repos\VodacomKZNui\VodacomKZNui.Module.Home\obj\Debug\netstandard2.0\VodacomKZNui.Module.Home.csproj.CopyComplete
 C:\Users\sabelo\source\repos\VodacomKZNui\VodacomKZNui.Module.Home\obj\Debug\netstandard2.0\VodacomKZNui.Module.Home.dll
 C:\Users\sabelo\source\repos\VodacomKZNui\VodacomKZNui.Module.Home\obj\Debug\netstandard2.0\VodacomKZNui.Module.Home.pdb
+C:\Users\sabelo\source\repos\VodacomKZNui\VodacomKZNui.Module.Home\obj\Debug\netstandard2.0\Views\ArrestPage.xaml.g.cs
+C:\Users\sabelo\source\repos\VodacomKZNui\VodacomKZNui.Module.Home\obj\Debug\netstandard2.0\Views\ArrestUpdateDetailsPage.xaml.g.cs
+C:\Users\sabelo\source\repos\VodacomKZNui\VodacomKZNui.Module.Home\obj\Debug\netstandard2.0\Views\SpendPage.xaml.g.cs
+C:\Users\sabelo\source\repos\VodacomKZNui\VodacomKZNui.Module.Home\obj\Debug\netstandard2.0\Views\AddTransactionPage.xaml.g.cs

@@ -102,3 +102,4 @@ C:\Users\sabelo\source\repos\VodacomKZNui\VodacomKZNui\VodacomKZNui.Android\obj\
 C:\Users\sabelo\source\repos\VodacomKZNui\VodacomKZNui\VodacomKZNui.Android\obj\Debug\90\android\assets\VodacomKZNui.Module.Profile.dll
 C:\Users\sabelo\source\repos\VodacomKZNui\VodacomKZNui\VodacomKZNui.Android\obj\Debug\90\android\assets\VodacomKZNui.Module.Home.dll
 C:\Users\sabelo\source\repos\VodacomKZNui\VodacomKZNui\VodacomKZNui.Android\obj\Debug\90\android\assets\VodacomKZNui.Core.dll
+C:\Users\sabelo\source\repos\VodacomKZNui\VodacomKZNui\VodacomKZNui.Android\obj\Debug\90\android\assets\VodacomKZNui.Module.Accident.dll

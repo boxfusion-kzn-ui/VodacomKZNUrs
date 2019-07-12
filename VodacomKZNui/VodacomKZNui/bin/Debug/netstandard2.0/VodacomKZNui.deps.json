@@ -1,7 +1,7 @@
 {
   "runtimeTarget": {
     "name": ".NETStandard,Version=v2.0/",
-    "signature": "c20fd8cdf8070a181a56c2bb80fa3f98da185c93"
+    "signature": "409f9bbf50eb241c5cc1285f1cc349a8796ab581"
   },
   "compilationOptions": {},
   "targets": {
@@ -12,9 +12,10 @@
           "NETStandard.Library": "2.0.3",
           "Prism.DryIoc.Forms": "7.1.0.431",
           "System.Threading.Tasks.Extensions": "4.5.2",
+          "VodacomKZNui.Module.Accident": "1.0.0",
           "VodacomKZNui.Module.Home": "1.0.0",
           "VodacomKZNui.Module.Profile": "1.0.0",
-          "Xamarin.Forms": "3.2.0.871581"
+          "Xamarin.Forms": "4.1.0.555618"
         },
         "runtime": {
           "VodacomKZNui.dll": {}
@@ -131,7 +132,7 @@
       "Prism.Forms/7.1.0.431": {
         "dependencies": {
           "Prism.Core": "7.1.0.431",
-          "Xamarin.Forms": "3.2.0.871581"
+          "Xamarin.Forms": "4.1.0.555618"
         },
         "runtime": {
           "lib/netstandard2.0/Prism.Forms.dll": {
@@ -582,19 +583,19 @@
           }
         }
       },
-      "Xamarin.Forms/3.2.0.871581": {
+      "Xamarin.Forms/4.1.0.555618": {
         "runtime": {
           "lib/netstandard2.0/Xamarin.Forms.Core.dll": {
             "assemblyVersion": "2.0.0.0",
-            "fileVersion": "2.0.0.0"
+            "fileVersion": "4.1.0.267"
           },
           "lib/netstandard2.0/Xamarin.Forms.Platform.dll": {
-            "assemblyVersion": "1.0.0.0",
-            "fileVersion": "1.0.0.0"
+            "assemblyVersion": "2.0.0.0",
+            "fileVersion": "4.1.0.267"
           },
           "lib/netstandard2.0/Xamarin.Forms.Xaml.dll": {
             "assemblyVersion": "2.0.0.0",
-            "fileVersion": "2.0.0.0"
+            "fileVersion": "4.1.0.267"
           }
         }
       },
@@ -605,18 +606,28 @@
           "Refractored.MvvmHelpers": "1.3.0",
           "Unity": "5.11.1",
           "Xamarin.Essentials": "1.0.0",
-          "Xamarin.Forms": "3.2.0.871581",
+          "Xamarin.Forms": "4.1.0.555618",
           "akavache": "6.5.9"
         },
         "runtime": {
           "VodacomKZNui.Core.dll": {}
         }
       },
+      "VodacomKZNui.Module.Accident/1.0.0": {
+        "dependencies": {
+          "Prism.Forms": "7.1.0.431",
+          "VodacomKZNui.Core": "1.0.0",
+          "Xamarin.Forms": "4.1.0.555618"
+        },
+        "runtime": {
+          "VodacomKZNui.Module.Accident.dll": {}
+        }
+      },
       "VodacomKZNui.Module.Home/1.0.0": {
         "dependencies": {
           "Prism.Forms": "7.1.0.431",
           "VodacomKZNui.Core": "1.0.0",
-          "Xamarin.Forms": "3.2.0.871581"
+          "Xamarin.Forms": "4.1.0.555618"
         },
         "runtime": {
           "VodacomKZNui.Module.Home.dll": {}
@@ -625,7 +636,7 @@
       "VodacomKZNui.Module.Profile/1.0.0": {
         "dependencies": {
           "Prism.Forms": "7.1.0.431",
-          "Xamarin.Forms": "3.2.0.871581"
+          "Xamarin.Forms": "4.1.0.555618"
         },
         "runtime": {
           "VodacomKZNui.Module.Profile.dll": {}
@@ -1003,14 +1014,19 @@
       "path": "xamarin.essentials/1.0.0",
       "hashPath": "xamarin.essentials.1.0.0.nupkg.sha512"
     },
-    "Xamarin.Forms/3.2.0.871581": {
+    "Xamarin.Forms/4.1.0.555618": {
       "type": "package",
       "serviceable": true,
-      "sha512": "sha512-PI+BD/fzCvpH/iKlLd6N8z+gN3ZrhOaoaLg4JmMF0eaLhrWinlzNFLYo+QsNCoIE0biSa7GU88YcyNiCoQO+7Q==",
-      "path": "xamarin.forms/3.2.0.871581",
-      "hashPath": "xamarin.forms.3.2.0.871581.nupkg.sha512"
+      "sha512": "sha512-eZHy/yCrKhu3WUI1oszz8Hvq8iC+wQyokEVkzlSmNJD6xa2pGLq5UjOgpXEWu7zKPaoZ5c70SrTv1BBZE+Je1A==",
+      "path": "xamarin.forms/4.1.0.555618",
+      "hashPath": "xamarin.forms.4.1.0.555618.nupkg.sha512"
     },
     "VodacomKZNui.Core/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "VodacomKZNui.Module.Accident/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

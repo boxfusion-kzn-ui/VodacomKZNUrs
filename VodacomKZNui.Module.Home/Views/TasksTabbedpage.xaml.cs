@@ -1,4 +1,5 @@
 ﻿using Prism.Navigation;
+using System;
 using VodacomKZNui.Module.Home.ViewModels;
 using Xamarin.Forms;
 
@@ -8,22 +9,30 @@ namespace VodacomKZNui.Module.Home.Views
     {
         public TasksTabbedpage()
         {
-            InitializeComponent();
+            try
+            {
+                InitializeComponent();
+            }
+            catch (Exception ex)
+            {
+
+                throw ex;
+            }
         }
 
         public void OnNavigatingTo(INavigationParameters parameters)
         {
             foreach (var item in this.Children)
             {
-                var page = item as TasksPage;
+                var page1 = item as TasksPage;
                 var page2 = item as SummaryTaskPage;
 
                 var viewmModel = (this?.BindingContext as TasksTabbedpageViewModel);
 
                 if (item.BindingContext is TasksPageViewModel vm)
                 {
-                    vm.SetNavigationService(viewmModel.NavigationService);
-                    vm.TabNumber = page?.TabNumber;
+                    //vm.SetNavigationService(viewmModel.NavigationService);
+                   // vm.TabNumber = page1?.TabNumber;
                     //Title = vm.Options.Title;
                 }else
                     if (item.BindingContext is SummaryTaskPageViewModel Vm)

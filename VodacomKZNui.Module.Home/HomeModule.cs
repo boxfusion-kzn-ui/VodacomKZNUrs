@@ -16,6 +16,11 @@ namespace VodacomKZNui.Module.Home
         {
             containerRegistry.RegisterForNavigation<TasksPage, TasksPageViewModel>();
             containerRegistry.RegisterForNavigation<SummaryTaskPage, SummaryTaskPageViewModel>();
+            containerRegistry.RegisterForNavigation<TasksTabbedpage, TasksTabbedpageViewModel>();
+            containerRegistry.RegisterForNavigation<ArrestPage, ArrestPageViewModel>();
+            containerRegistry.RegisterForNavigation<ArrestUpdateDetailsPage, ArrestUpdateDetailsPageViewModel>();
+            containerRegistry.RegisterForNavigation<SpendPage, SpendPageViewModel>();
+            containerRegistry.RegisterForNavigation<AddTransactionPage, AddTransactionPageViewModel>();
         }
     }
 }

@@ -177,6 +177,7 @@ class MonoPackageManager_Resources {
 		"VodacomKZNui.Module.Profile.dll",
 		"VodacomKZNui.Module.Home.dll",
 		"VodacomKZNui.Core.dll",
+		"VodacomKZNui.Module.Accident.dll",
 	};
 	public static final String[] Dependencies = new String[]{
 	};

@@ -16,3 +16,5 @@ C:\Users\sabelo\source\repos\VodacomKZNui\VodacomKZNui\VodacomKZNui\obj\Debug\ne
 C:\Users\sabelo\source\repos\VodacomKZNui\VodacomKZNui\VodacomKZNui\obj\Debug\netstandard2.0\VodacomKZNui.dll
 C:\Users\sabelo\source\repos\VodacomKZNui\VodacomKZNui\VodacomKZNui\obj\Debug\netstandard2.0\VodacomKZNui.pdb
 C:\Users\sabelo\source\repos\VodacomKZNui\VodacomKZNui\VodacomKZNui\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\sabelo\source\repos\VodacomKZNui\VodacomKZNui\VodacomKZNui\bin\Debug\netstandard2.0\VodacomKZNui.Module.Accident.dll
+C:\Users\sabelo\source\repos\VodacomKZNui\VodacomKZNui\VodacomKZNui\bin\Debug\netstandard2.0\VodacomKZNui.Module.Accident.pdb

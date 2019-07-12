@@ -4,11 +4,13 @@
              xmlns:prism="clr-namespace:Prism.Mvvm;assembly=Prism.Forms"
              prism:ViewModelLocator.AutowireViewModel="True"
              xmlns:views="clr-namespace:VodacomKZNui.Module.Home.Views"
-             x:Class="VodacomKZNui.Module.Home.Views.TasksTabbedpage">
+             x:Class="VodacomKZNui.Module.Home.Views.TasksTabbedpage"
+            Title="Tasks">
+
 
     <NavigationPage.TitleView>
         <StackLayout HorizontalOptions="CenterAndExpand">
-            <Label     Text="Tasks"
+            <Label     Text="Gallery"
                       TextColor="White"
                       HorizontalOptions="CenterAndExpand"
                       VerticalOptions="CenterAndExpand"
@@ -18,23 +20,27 @@
         </StackLayout>
     </NavigationPage.TitleView>
     <TabbedPage.Children >
-
-        <views:TasksPage Title="Tasks" TabNumber="1" TranslationY="-6">
+        <views:TasksPage Title="My Photos" TabNumber="1" TranslationY="-6">
             <views:TasksPage.Icon>
                 <OnPlatform x:TypeArguments="FileImageSource">
                     <OnPlatform.iOS>myphotos.png</OnPlatform.iOS>
                 </OnPlatform>
             </views:TasksPage.Icon>
         </views:TasksPage>
-
-        <views:SummaryTaskPage Title="Summary" TabNumber="2" TranslationY="-6">
-            <views:SummaryTaskPage.Icon>
+        <views:TasksPage Title="Feeds" TabNumber="2" TranslationY="-6">
+            <views:TasksPage.Icon>
                 <OnPlatform x:TypeArguments="FileImageSource">
                     <OnPlatform.iOS>feed.png</OnPlatform.iOS>
                 </OnPlatform>
-            </views:SummaryTaskPage.Icon>
-        </views:SummaryTaskPage>
-
+            </views:TasksPage.Icon>
+        </views:TasksPage>
+        <views:TasksPage Title="Event Photos" TabNumber="3" TranslationY="-6">
+            <views:TasksPage.Icon>
+                <OnPlatform x:TypeArguments="FileImageSource">
+                    <OnPlatform.iOS>feed.png</OnPlatform.iOS>
+                </OnPlatform>
+            </views:TasksPage.Icon>
+        </views:TasksPage>
     </TabbedPage.Children>
 
 </TabbedPage>

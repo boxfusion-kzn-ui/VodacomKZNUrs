@@ -1,6 +1,8 @@
 ﻿using Prism;
 using Prism.Ioc;
 using Prism.Modularity;
+using VodacomKZNui.Module.Accident;
+using VodacomKZNui.Module.Accident.Model;
 using VodacomKZNui.Module.Home;
 using VodacomKZNui.Module.Home.Views;
 using VodacomKZNui.Module.Profile;
@@ -25,7 +27,7 @@ namespace VodacomKZNui
         {
             InitializeComponent();
 
-            await NavigationService.NavigateAsync("NavigationPage/TasksTabbedpage");
+            await NavigationService.NavigateAsync("NavigationPage/TasksPage");
         }
 
         protected override void RegisterTypes(IContainerRegistry containerRegistry)
@@ -40,6 +42,7 @@ namespace VodacomKZNui
             base.ConfigureModuleCatalog(moduleCatalog);
             moduleCatalog.AddModule<ProfileModule>(InitializationMode.WhenAvailable);
             moduleCatalog.AddModule<HomeModule>(InitializationMode.WhenAvailable);
+            moduleCatalog.AddModule<AccidentModule>(InitializationMode.WhenAvailable);
         }
 
        
